@@ -8,7 +8,7 @@
 
 pruJsonCsv.py
 
-:::code language="Python" source="./pruJsonCsv.py:::
+:::code language="Python" source="./pruJsonCsv.py":::
 
 ---
 
