@@ -1,4 +1,7 @@
+# <import>
 import json
+import csv
+# </import>
 
 with open('inventario.json') as f:
     data = json.load(f)
